@@ -1,5 +1,3 @@
-@@ -0,0 +1,781 @@
-<!DOCTYPE html>
 <html lang="id">
 <head>
     <meta charset="UTF-8">
